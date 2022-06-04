@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(green, rgb(5, 146, 5),rgb(2, 143, 2), rgb(4, 189, 4), rgb(3, 255, 3));
+}
+#explanation{
+    font-family: 'Dancing Script', cursive;
+}
+#jungle{
+    font-family: 'Dancing Script', cursive;   
+   
+}
